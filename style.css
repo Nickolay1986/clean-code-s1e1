@@ -159,7 +159,6 @@ body {
 }
 
 /* Edit Task */
-
 .ul .li.task__item--edit-mode .task__input {
   display: inline-block;
   width: 224px;
